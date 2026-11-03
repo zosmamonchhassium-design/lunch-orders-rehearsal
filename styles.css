@@ -1,0 +1,19 @@
+body {
+  font-family: system-ui, sans-serif;
+  max-width: 32rem;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+#menu {
+  list-style: none;
+  padding: 0;
+}
+
+#menu li {
+  margin-bottom: 0.5rem;
+}
+
+button {
+  padding: 0.25rem 0.75rem;
+}
