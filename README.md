@@ -6,6 +6,11 @@ Lunch Orders is a small browser app the team uses to collect a shared lunch orde
 
 Open `index.html` in a browser.
 
+## Browser support
+
+Tested in current versions of Chrome, Safari, and Firefox.
+Requires native ES module support in the browser.
+
 ## Run the tests
 
 Run `npm test` with Node 22. There are no dependencies to install.
